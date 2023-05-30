@@ -1,0 +1,29 @@
+body{
+    background-color: black;
+}
+
+.ellipse{
+    /* transform: translate(-300px, -200px); */
+    width: 510px;
+    height: 510px;
+
+    background: #21ABA5;
+    opacity: 0.65;
+    filter: blur(200px);
+}
+
+#ellipse1{
+    transform: translate(-300px, -200px);
+}
+#ellipse2{
+    transform: translate(85vw, 10vh);
+}
+/* #ellipse3{
+    position: absolute;
+    transform: translate(35vw);
+    top: 100vh;
+} */
+
+#body_section{
+    position: fixed;
+}
