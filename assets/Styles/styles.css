@@ -23,6 +23,7 @@ body {
 #body_section {
     position: fixed;
 }
+<<<<<<< HEAD:events/style1.css
 
 /* Header */
 header {
@@ -88,3 +89,5 @@ h1 {
     padding: 2rem;
     color: #fff;
 }
+=======
+>>>>>>> 6c6888a433c261574aff7b613c410ba3b75bc828:assets/Styles/styles.css
