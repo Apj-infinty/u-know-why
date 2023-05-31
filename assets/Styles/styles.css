@@ -27,18 +27,3 @@ body{
 #body_section{
     position: fixed;
 }
-
-
-.top{
-    display: flex;
-    justify-content: center;
-    
-}
-h1{
-    padding: 1rem;
-    color: #fff;
-}
-/* .top-elements{
-    margin-left: 0px;
-    margin-right: -50px;
-} */
